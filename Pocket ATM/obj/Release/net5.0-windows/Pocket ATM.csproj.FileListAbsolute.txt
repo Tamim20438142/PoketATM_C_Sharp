@@ -1,0 +1,47 @@
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.exe
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.deps.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.runtimeconfig.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.runtimeconfig.dev.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\ref\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.pdb
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Account.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.adLogin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Admin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Balance.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.BOTHlogin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.CashOut.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.ChangePin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Delete.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Deposit.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Display.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Home.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Insert.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Login.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Menu.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Properties.Resources.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Search.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Statement.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Update.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket_ATM.Withdraw.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.AssemblyInfo.cs
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.csproj.CopyComplete
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\ref\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.pdb
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.genruntimeconfig.cache
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.dll.manifest
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Release\net5.0-windows\Pocket ATM.application
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.dll.manifest
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Release\net5.0-windows\Pocket ATM.application

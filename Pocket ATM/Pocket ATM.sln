@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pocket ATM", "Pocket ATM.csproj", "{E82D4658-F58E-4F96-BDC6-40BE25BAF809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82D4658-F58E-4F96-BDC6-40BE25BAF809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82D4658-F58E-4F96-BDC6-40BE25BAF809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82D4658-F58E-4F96-BDC6-40BE25BAF809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82D4658-F58E-4F96-BDC6-40BE25BAF809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81ABAF06-03FF-431D-BB03-1F1E10AB6ED1}
+	EndGlobalSection
+EndGlobal

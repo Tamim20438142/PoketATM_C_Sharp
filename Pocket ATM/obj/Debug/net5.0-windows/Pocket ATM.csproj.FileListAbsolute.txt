@@ -1,0 +1,86 @@
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.exe
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.deps.json
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.runtimeconfig.json
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.runtimeconfig.dev.json
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\ref\Pocket ATM.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.pdb
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Aiub\Codes\C#\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.AssemblyReference.cache
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Account.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Balance.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.CashOut.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.ChangePin.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Deposit.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Home.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Login.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Menu.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Properties.Resources.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Statement.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Withdraw.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.GenerateResource.cache
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.AssemblyInfoInputs.cache
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.AssemblyInfo.cs
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.CoreCompileInputs.cache
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.CopyComplete
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.dll
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\ref\Pocket ATM.dll
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.pdb
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.genruntimeconfig.cache
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Admin.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Insert.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Delete.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Display.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Search.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Update.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.adLogin.resources
+E:\Aiub\Codes\C#\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.BOTHlogin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.exe
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.deps.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.runtimeconfig.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.runtimeconfig.dev.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\ref\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\Pocket ATM.pdb
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Account.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.adLogin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Admin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Balance.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.BOTHlogin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.CashOut.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.ChangePin.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Delete.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Deposit.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Display.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Home.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Insert.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Login.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Menu.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Properties.Resources.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Search.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Statement.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Update.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket_ATM.Withdraw.resources
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.AssemblyInfo.cs
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.csproj.CopyComplete
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\ref\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.pdb
+C:\Users\Asus\Documents\project\Pocket ATM\obj\Debug\net5.0-windows\Pocket ATM.genruntimeconfig.cache

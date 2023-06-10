@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\Pocket ATM.exe
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\Pocket ATM.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\Pocket ATM.deps.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\Pocket ATM.runtimeconfig.json
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\Pocket ATM.pdb
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\project\Pocket ATM\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
